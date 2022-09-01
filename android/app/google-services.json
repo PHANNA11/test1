@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "594303531065",
+    "project_id": "studentcontroller-a77c1",
+    "storage_bucket": "studentcontroller-a77c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594303531065:android:c45267e608d4ed479275e8",
+        "android_client_info": {
+          "package_name": "com.example.firestore_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594303531065-pe3dn8rk7vdqbs2hpbomlgimntaefk5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1fy_oSbsckOTOjS6tLlk4yqMgOUd8smY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594303531065-pe3dn8rk7vdqbs2hpbomlgimntaefk5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594303531065-ep0vnnsios633n46djij3ohfs7u0glkd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestoreTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
